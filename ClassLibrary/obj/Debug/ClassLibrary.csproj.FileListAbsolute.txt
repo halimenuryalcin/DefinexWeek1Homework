@@ -1,0 +1,6 @@
+C:\Users\nurre\OneDrive\Desktop\DefineX\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\nurre\OneDrive\Desktop\DefineX\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\nurre\OneDrive\Desktop\DefineX\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\nurre\OneDrive\Desktop\DefineX\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nurre\OneDrive\Desktop\DefineX\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\nurre\OneDrive\Desktop\DefineX\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb
